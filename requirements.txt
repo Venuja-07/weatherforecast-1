@@ -3,6 +3,6 @@ numpy
 matplotlib
 scikit-learn
 prophet
-tensorflow
+tensorflow==2.15.1
 streamlit
 requests
